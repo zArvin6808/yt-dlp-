@@ -10,4 +10,4 @@ yt-dlp URL
 
 例如：
 
-yt-dlp https://www.youtube.com/watch?v=dQw4w9WgXcQ
+yt-dlp https://www.youtube.com/watch?v=xxxxx
